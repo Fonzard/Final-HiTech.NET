@@ -1,0 +1,16 @@
+body header {
+  padding: 3em;
+  margin-bottom: 3em;
+}
+body header .container {
+  display: flex;
+  flex-wrap: row;
+  align-items: start;
+  justify-content: start;
+  background-color: var(--bs-secondary-color);
+}
+body main aside ul li {
+  list-style: none;
+}
+
+/*# sourceMappingURL=styles.css.map */
